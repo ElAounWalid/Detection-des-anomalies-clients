@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_NeYlwNM7Ee2PWOS-WjhPug" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_NeYlwdM7Ee2PWOS-WjhPug" comment="" name="DATE_File" prompt="DATE_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Users/ewali/OneDrive/Bureau/Stage_PFE/DATE.xlsx"/>
+  <contextParameter xmi:id="_NeYlwtM7Ee2PWOS-WjhPug" comment="" name="DATE_Header" prompt="DATE_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_NeYlw9M7Ee2PWOS-WjhPug" comment="" name="DATE_Encoding" prompt="DATE_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8"/>
+  <contextParameter xmi:id="_NeYlxNM7Ee2PWOS-WjhPug" comment="" name="DATE_DecimalSeparator" prompt="DATE_DecimalSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="'.'"/>
+  <contextParameter xmi:id="_NeYlxdM7Ee2PWOS-WjhPug" comment="" name="DATE_ThousandSeparator" prompt="DATE_ThousandSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="','"/>
+  <contextParameter xmi:id="_NeYlxtM7Ee2PWOS-WjhPug" comment="" name="DATE_LastColumn" prompt="DATE_LastColumn?" promptNeeded="false" repositoryContextId="" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_NeYlx9M7Ee2PWOS-WjhPug" comment="" name="DATE_FirstColumn" prompt="DATE_FirstColumn?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1"/>
+</talendfile:ContextType>

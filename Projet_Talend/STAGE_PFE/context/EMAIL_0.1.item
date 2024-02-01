@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_TCE-YMczEe20P7HWmX07UA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_TCE-YcczEe20P7HWmX07UA" comment="" name="EMAIL_FirstColumn" prompt="EMAIL_FirstColumn?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_TCE-YsczEe20P7HWmX07UA" comment="" name="EMAIL_ThousandSeparator" prompt="EMAIL_ThousandSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="','"/>
+  <contextParameter xmi:id="_TCE-Y8czEe20P7HWmX07UA" comment="" name="EMAIL_File" prompt="EMAIL_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Users/ewali/OneDrive/Bureau/Stage_PFE/EMAIL.xlsx"/>
+  <contextParameter xmi:id="_TCE-ZMczEe20P7HWmX07UA" comment="" name="EMAIL_Encoding" prompt="EMAIL_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8"/>
+  <contextParameter xmi:id="_TCE-ZcczEe20P7HWmX07UA" comment="" name="EMAIL_Header" prompt="EMAIL_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_TCE-ZsczEe20P7HWmX07UA" comment="" name="EMAIL_DecimalSeparator" prompt="EMAIL_DecimalSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="'.'"/>
+  <contextParameter xmi:id="_TCE-Z8czEe20P7HWmX07UA" comment="" name="EMAIL_LastColumn" prompt="EMAIL_LastColumn?" promptNeeded="false" repositoryContextId="" type="id_Integer" value=""/>
+</talendfile:ContextType>

@@ -1,0 +1,29 @@
+{
+  "itemId" : "_3nC1AKjHEe22AorZ1J6K-w",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_TB7NYMczEe20P7HWmX07UA",
+    "parameterList" : [ {
+      "id" : "_TCE-YcczEe20P7HWmX07UA",
+      "name" : "EMAIL_FirstColumn"
+    }, {
+      "id" : "_TCE-YsczEe20P7HWmX07UA",
+      "name" : "EMAIL_ThousandSeparator"
+    }, {
+      "id" : "_TCE-Y8czEe20P7HWmX07UA",
+      "name" : "EMAIL_File"
+    }, {
+      "id" : "_TCE-ZMczEe20P7HWmX07UA",
+      "name" : "EMAIL_Encoding"
+    }, {
+      "id" : "_TCE-ZcczEe20P7HWmX07UA",
+      "name" : "EMAIL_Header"
+    }, {
+      "id" : "_TCE-ZsczEe20P7HWmX07UA",
+      "name" : "EMAIL_DecimalSeparator"
+    }, {
+      "id" : "_TCE-Z8czEe20P7HWmX07UA",
+      "name" : "EMAIL_LastColumn"
+    } ]
+  } ]
+}

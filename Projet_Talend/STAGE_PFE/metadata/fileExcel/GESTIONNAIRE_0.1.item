@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_E2f7wbjVEe28w-_i851OMw" name="GESTIONNAIRE" id="_E2f7wLjVEe28w-_i851OMw" dataPackage="_E2f7wrjVEe28w-_i851OMw" ContextMode="true" ContextId="_VHucQMczEe20P7HWmX07UA" contextName="Default" Server="Localhost 127.0.0.1" FilePath="context.GESTIONNAIRE_File" Encoding="context.GESTIONNAIRE_Encoding" UseHeader="true" HeaderValue="context.GESTIONNAIRE_Header" FirstLineCaption="true" SheetName="Gestionnaire_F" firstColumn="context.GESTIONNAIRE_FirstColumn" lastColumn="context.GESTIONNAIRE_LastColumn" thousandSeparator="context.GESTIONNAIRE_ThousandSeparator" decimalSeparator="context.GESTIONNAIRE_DecimalSeparator" selectAllSheets="true" sheetList="Gestionnaire_F:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_E2f7wrjVEe28w-_i851OMw" name="default" dataManager="_E2f7wbjVEe28w-_i851OMw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_E2f7w7jVEe28w-_i851OMw" id="_-wb8cLjUEe28w-_i851OMw" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_E2f7xLjVEe28w-_i851OMw" label="CODE_GESTIONNAIRE" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_E2f7xbjVEe28w-_i851OMw" label="NOM" length="50" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_E2f7xrjVEe28w-_i851OMw" label="PRENOM" length="50" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

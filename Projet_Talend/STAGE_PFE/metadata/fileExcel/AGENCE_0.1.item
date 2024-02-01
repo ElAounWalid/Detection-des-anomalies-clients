@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_gQeMoKjGEe2kxIHJ1fAuYQ" name="AGENCE" id="_gQWQ0KjGEe2kxIHJ1fAuYQ" dataPackage="_gQeMoajGEe2kxIHJ1fAuYQ" ContextMode="true" ContextId="_LUSzUMczEe20P7HWmX07UA" contextName="Default" Server="Localhost 127.0.0.1" FilePath="context.AGENCE_File" Encoding="context.AGENCE_Encoding" UseHeader="true" HeaderValue="context.AGENCE_Header" FirstLineCaption="true" SheetName="Agence_F" firstColumn="context.AGENCE_FirstColumn" lastColumn="context.AGENCE_LastColumn" thousandSeparator="context.AGENCE_ThousandSeparator" decimalSeparator="context.AGENCE_DecimalSeparator" selectAllSheets="true" sheetList="Agence_F:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_gQeMoajGEe2kxIHJ1fAuYQ" name="default" dataManager="_gQeMoKjGEe2kxIHJ1fAuYQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_gQeMoqjGEe2kxIHJ1fAuYQ" id="_bo0sEKjGEe2kxIHJ1fAuYQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gQeMo6jGEe2kxIHJ1fAuYQ" label="CODE_AGENCE" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gQeMpKjGEe2kxIHJ1fAuYQ" label="DIRECTION" length="8" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gQeMpajGEe2kxIHJ1fAuYQ" label="GROUPE" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gQeMpqjGEe2kxIHJ1fAuYQ" label="LISTE_AGENCE" length="18" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

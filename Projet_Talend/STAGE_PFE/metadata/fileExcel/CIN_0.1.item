@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_mvZX4ajGEe2kxIHJ1fAuYQ" name="CIN" id="_mvZX4KjGEe2kxIHJ1fAuYQ" dataPackage="_mvZX4qjGEe2kxIHJ1fAuYQ" ContextMode="true" ContextId="_NzHmMMczEe20P7HWmX07UA" contextName="Default" Server="Localhost 127.0.0.1" FilePath="context.CIN_File" Encoding="context.CIN_Encoding" UseHeader="true" HeaderValue="context.CIN_Header" FirstLineCaption="true" SheetName="CIN_F" firstColumn="context.CIN_FirstColumn" lastColumn="context.CIN_LastColumn" thousandSeparator="context.CIN_ThousandSeparator" decimalSeparator="context.CIN_DecimalSeparator" selectAllSheets="true" sheetList="CIN_F:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+    <sheetColumns>F</sheetColumns>
+    <sheetColumns>G</sheetColumns>
+    <sheetColumns>H</sheetColumns>
+    <sheetColumns>I</sheetColumns>
+    <sheetColumns>J</sheetColumns>
+    <sheetColumns>K</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_mvZX4qjGEe2kxIHJ1fAuYQ" name="default" dataManager="_mvZX4ajGEe2kxIHJ1fAuYQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_mvZX46jGEe2kxIHJ1fAuYQ" id="_ifsdQKjGEe2kxIHJ1fAuYQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mvZX5KjGEe2kxIHJ1fAuYQ" label="CODE_CLIENT" length="4" talendType="id_Integer" key="true" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mvZX5ajGEe2kxIHJ1fAuYQ" label="MARCHE" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mvZX5qjGEe2kxIHJ1fAuYQ" label="SEGMENT" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mvZX56jGEe2kxIHJ1fAuYQ" label="PROFESSION" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mvZX6KjGEe2kxIHJ1fAuYQ" label="SEGMENT_NMR" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mvZX6ajGEe2kxIHJ1fAuYQ" label="SOUS_SEGMENT" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mvZX66jGEe2kxIHJ1fAuYQ" label="DATE_OUVERTURE" length="30" talendType="id_Date" pattern="&quot;dd/MM/yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mvZX7KjGEe2kxIHJ1fAuYQ" label="DATE_MODIFICATION" length="30" talendType="id_Date" pattern="&quot;dd/MM/yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mvZX7ajGEe2kxIHJ1fAuYQ" label="CODE_GESTIONNAIRE" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mvZX6qjGEe2kxIHJ1fAuYQ" label="AGENCE_CLIENT" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mvZX7qjGEe2kxIHJ1fAuYQ" label="NUM_CIN" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

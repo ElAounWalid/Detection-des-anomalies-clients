@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_a8suUbkLEe28w-_i851OMw" name="Code_Postal" id="_a8suULkLEe28w-_i851OMw" dataPackage="_a8suUrkLEe28w-_i851OMw" ContextMode="true" ContextId="_Q8r_MMczEe20P7HWmX07UA" Server="Localhost 127.0.0.1" FilePath="context.Code_Postal_File" Encoding="context.Code_Postal_Encoding" UseHeader="true" HeaderValue="context.Code_Postal_Header" FirstLineCaption="true" SheetName="Table001 (Page 1)" firstColumn="context.Code_Postal_FirstColumn" lastColumn="context.Code_Postal_LastColumn" thousandSeparator="context.Code_Postal_ThousandSeparator" decimalSeparator="context.Code_Postal_DecimalSeparator" sheetList="Table 0:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_a8suUrkLEe28w-_i851OMw" name="default" dataManager="_a8suUbkLEe28w-_i851OMw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_a8suU7kLEe28w-_i851OMw" id="_UHpiELkLEe28w-_i851OMw" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_UPZlsMf6Ee2XeZliFCZ5lw" label="Localite" length="23" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_UPZlscf6Ee2XeZliFCZ5lw" label="Code_postal" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_UPZlssf6Ee2XeZliFCZ5lw" label="Delegation" length="19" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

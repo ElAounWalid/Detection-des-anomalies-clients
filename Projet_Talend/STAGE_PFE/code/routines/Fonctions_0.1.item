@@ -1,0 +1,77 @@
+package routines;
+import java.text.SimpleDateFormat;
+import java.util.Locale;
+
+import java.util.regex.Pattern;
+import java.util.regex.Matcher;
+
+import java.text.*;
+
+public class Fonctions {
+	
+	public static boolean countLetters(String input) {
+	    String[] words = input.split(" "); // sépare la chaîne en mots
+	    
+	    //boolean prevBlockOrImmeuble = false; // variable pour garder une trace si le mot précédent est "Bloc", "immeuble" ou "imm"
+	    
+	    for (int i = 0; i < words.length; i++) {
+	        String word = words[i];
+	        boolean isNumber = true;
+	        for (char c : word.toCharArray()) { // vérifie si chaque caractère du mot est un chiffre
+	            if (c < '0' || c > '9') {
+	                isNumber = false;
+	                break;
+	            }
+	        }
+	        
+	        /*if (prevBlockOrImmeuble) { // si le mot précédent était "Bloc", "immeuble" ou "imm", ignore la vérification de la longueur du mot courant
+	            prevBlockOrImmeuble = false; // réinitialise la variable*/
+	        if (!word.equals("N") && word.length() < 2 && !isNumber && !word.equals("N°")) { // vérifie si le mot a moins de 2 lettres et n'est pas "N"
+	            /*if (i + 1 < words.length) { // vérifie si le mot suivant existe
+	                String nextWord = words[i + 1];
+	                if (nextWord.length() == 1 && !isNumber && (word.toUpperCase().equals("BLOC") || word.toUpperCase().equals("IMMEUBLE") || word.toUpperCase().equals("IMM"))) {
+	                    prevBlockOrImmeuble = true; // si le mot courant est suivi d'une lettre et est l'un des mots-clés, garde une trace pour ignorer la vérification de la longueur du mot suivant
+	                    continue;
+	                }
+	            }*/
+	            return false; // si le mot ne satisfait pas les critères, renvoie false immédiatement
+	        }
+	    }
+	    
+	    return true; // si tous les mots ont 2 lettres ou plus (sauf "N" et les chiffres), renvoie true
+	}
+
+//fonction pour verifier le format de date 
+	
+	public static boolean isDateFormatValid(String dateString, String language) {
+	    Locale locale = new Locale(language);
+	    SimpleDateFormat dateFormat = new SimpleDateFormat("EEE MMM dd HH:mm:ss zzz yyyy", locale);
+	    try {
+	        dateFormat.parse(dateString);
+	        return true;
+	    } catch (ParseException e) {
+	        return false;
+	    }
+	}
+	
+	public static final Pattern VALID_EMAIL_ADDRESS_REGEX = 
+		    Pattern.compile("^[A-Z]+[A-Z0-9._-]+@[A-Z0-9]+.\\.[A-Z]{2,6}$", Pattern.CASE_INSENSITIVE);
+
+	public static boolean validate(String emailStr) {
+		        Matcher matcher = VALID_EMAIL_ADDRESS_REGEX.matcher(emailStr);
+		        return matcher.matches();
+		}
+	
+	public static String cleanPhoneNumber(String phoneNumber) {
+		
+		// Enlever tous les caractères non numériques
+	    phoneNumber = phoneNumber.replaceAll("[^0-9]", "");
+		if(phoneNumber.length()!=8) {
+	    String prefix = "216"; // Mettre ici le préfixe à enlever
+	    if (phoneNumber.startsWith(prefix)) {
+	        phoneNumber = phoneNumber.substring(prefix.length());
+	    }
+		}
+	    return phoneNumber;
+	}
+}

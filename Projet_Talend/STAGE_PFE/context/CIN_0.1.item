@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_NzRXMMczEe20P7HWmX07UA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_NzRXMcczEe20P7HWmX07UA" comment="" name="CIN_FirstColumn" prompt="CIN_FirstColumn?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_NzRXMsczEe20P7HWmX07UA" comment="" name="CIN_ThousandSeparator" prompt="CIN_ThousandSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="','"/>
+  <contextParameter xmi:id="_NzRXM8czEe20P7HWmX07UA" comment="" name="CIN_File" prompt="CIN_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Users/ewali/OneDrive/Bureau/Stage_PFE/CIN.xlsx"/>
+  <contextParameter xmi:id="_NzRXNMczEe20P7HWmX07UA" comment="" name="CIN_Encoding" prompt="CIN_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8"/>
+  <contextParameter xmi:id="_NzRXNcczEe20P7HWmX07UA" comment="" name="CIN_Header" prompt="CIN_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_NzRXNsczEe20P7HWmX07UA" comment="" name="CIN_DecimalSeparator" prompt="CIN_DecimalSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="'.'"/>
+  <contextParameter xmi:id="_NzRXN8czEe20P7HWmX07UA" comment="" name="CIN_LastColumn" prompt="CIN_LastColumn?" promptNeeded="false" repositoryContextId="" type="id_Integer" value=""/>
+</talendfile:ContextType>

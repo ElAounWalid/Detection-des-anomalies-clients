@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_zPOyIKjFEe2M_ZHMGQ5jog" name="ADRESSE" id="_zPJ5oKjFEe2M_ZHMGQ5jog" dataPackage="_zPOyIajFEe2M_ZHMGQ5jog" ContextMode="true" ContextId="_Bh4eEMczEe20P7HWmX07UA" contextName="Default" Server="Localhost 127.0.0.1" FilePath="context.ADRESSE_File" Encoding="context.ADRESSE_Encoding" UseHeader="true" HeaderValue="context.ADRESSE_Header" FooterValue="0" LimitValue="" FirstLineCaption="true" SheetName="Adresse_F" firstColumn="context.ADRESSE_FirstColumn" lastColumn="context.ADRESSE_LastColumn" thousandSeparator="context.ADRESSE_ThousandSeparator" decimalSeparator="context.ADRESSE_DecimalSeparator" selectAllSheets="true" sheetList="Adresse_F:w&#xA;" generationMode="USER_MODE">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+    <sheetColumns>F</sheetColumns>
+    <sheetColumns>G</sheetColumns>
+    <sheetColumns>H</sheetColumns>
+    <sheetColumns>I</sheetColumns>
+    <sheetColumns>J</sheetColumns>
+    <sheetColumns>K</sheetColumns>
+    <sheetColumns>L</sheetColumns>
+    <sheetColumns>M</sheetColumns>
+    <sheetColumns>N</sheetColumns>
+    <sheetColumns>O</sheetColumns>
+    <sheetColumns>P</sheetColumns>
+    <sheetColumns>Q</sheetColumns>
+    <sheetColumns>R</sheetColumns>
+    <sheetColumns>S</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_zPOyIajFEe2M_ZHMGQ5jog" name="default" dataManager="_zPOyIKjFEe2M_ZHMGQ5jog">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_zPOyIqjFEe2M_ZHMGQ5jog" id="_p8BhYKjFEe2M_ZHMGQ5jog" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MYprgLkKEe28w-_i851OMw" label="CODE_CLIENT" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MYprgbkKEe28w-_i851OMw" label="MARCHE" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MYprgrkKEe28w-_i851OMw" label="SEGMENT" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MYprg7kKEe28w-_i851OMw" label="PROFESSION" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MYprhLkKEe28w-_i851OMw" label="SEGMENT_NMR" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MYprhbkKEe28w-_i851OMw" label="SOUS_SEGMENT" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MYprhrkKEe28w-_i851OMw" label="DATE_OUVERTURE" length="30" talendType="id_Date" pattern="&quot;dd/MM/yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MYprh7kKEe28w-_i851OMw" label="DATE_MODIFICATION" length="30" talendType="id_Date" pattern="&quot;dd/MM/yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MYpriLkKEe28w-_i851OMw" label="CODE_GESTIONNAIRE" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MYpribkKEe28w-_i851OMw" label="AGENCE_CLIENT" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MYprirkKEe28w-_i851OMw" label="ADRESSE" length="100" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MYpri7kKEe28w-_i851OMw" label="VILLE" length="30" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MYprjLkKEe28w-_i851OMw" label="REGION" length="30" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MYprjbkKEe28w-_i851OMw" label="PAYS" length="30" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MYprjrkKEe28w-_i851OMw" label="CODE_POSTAL" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

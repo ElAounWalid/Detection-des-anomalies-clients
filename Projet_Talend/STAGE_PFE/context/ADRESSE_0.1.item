@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_BiCPEMczEe20P7HWmX07UA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_BiCPEcczEe20P7HWmX07UA" comment="" name="ADRESSE_FirstColumn" prompt="ADRESSE_FirstColumn?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_BiCPEsczEe20P7HWmX07UA" comment="" name="ADRESSE_ThousandSeparator" prompt="ADRESSE_ThousandSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="','"/>
+  <contextParameter xmi:id="_BiCPE8czEe20P7HWmX07UA" comment="" name="ADRESSE_File" prompt="ADRESSE_File?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="C:/Users/ewali/OneDrive/Bureau/Stage_PFE/ADRESSE.xlsx"/>
+  <contextParameter xmi:id="_BiCPFMczEe20P7HWmX07UA" comment="" name="ADRESSE_Encoding" prompt="ADRESSE_Encoding?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="UTF-8"/>
+  <contextParameter xmi:id="_BiCPFcczEe20P7HWmX07UA" comment="" name="ADRESSE_Header" prompt="ADRESSE_Header?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_BiCPFsczEe20P7HWmX07UA" comment="" name="ADRESSE_DecimalSeparator" prompt="ADRESSE_DecimalSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="'.'"/>
+  <contextParameter xmi:id="_BiCPF8czEe20P7HWmX07UA" comment="" name="ADRESSE_LastColumn" prompt="ADRESSE_LastColumn?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value=""/>
+</talendfile:ContextType>

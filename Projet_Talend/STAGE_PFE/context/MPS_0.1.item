@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_WzBgcMczEe20P7HWmX07UA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_WzBgccczEe20P7HWmX07UA" comment="" name="MPS_FirstColumn" prompt="MPS_FirstColumn?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_WzBgcsczEe20P7HWmX07UA" comment="" name="MPS_ThousandSeparator" prompt="MPS_ThousandSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="','"/>
+  <contextParameter xmi:id="_WzBgc8czEe20P7HWmX07UA" comment="" name="MPS_File" prompt="MPS_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Users/ewali/OneDrive/Bureau/Stage_PFE/MPS.xlsx"/>
+  <contextParameter xmi:id="_WzBgdMczEe20P7HWmX07UA" comment="" name="MPS_Encoding" prompt="MPS_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8"/>
+  <contextParameter xmi:id="_WzBgdcczEe20P7HWmX07UA" comment="" name="MPS_Header" prompt="MPS_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_WzBgdsczEe20P7HWmX07UA" comment="" name="MPS_DecimalSeparator" prompt="MPS_DecimalSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="'.'"/>
+  <contextParameter xmi:id="_WzBgd8czEe20P7HWmX07UA" comment="" name="MPS_LastColumn" prompt="MPS_LastColumn?" promptNeeded="false" repositoryContextId="" type="id_Integer" value=""/>
+</talendfile:ContextType>

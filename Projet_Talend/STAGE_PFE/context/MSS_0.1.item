@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_Yo0kcMczEe20P7HWmX07UA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_Yo0kccczEe20P7HWmX07UA" comment="" name="MSS_FirstColumn" prompt="MSS_FirstColumn?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_Yo0kcsczEe20P7HWmX07UA" comment="" name="MSS_ThousandSeparator" prompt="MSS_ThousandSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="','"/>
+  <contextParameter xmi:id="_Yo0kc8czEe20P7HWmX07UA" comment="" name="MSS_File" prompt="MSS_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Users/ewali/OneDrive/Bureau/Stage_PFE/MSS.xlsx"/>
+  <contextParameter xmi:id="_Yo0kdMczEe20P7HWmX07UA" comment="" name="MSS_Encoding" prompt="MSS_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8"/>
+  <contextParameter xmi:id="_Yo0kdcczEe20P7HWmX07UA" comment="" name="MSS_Header" prompt="MSS_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_Yo0kdsczEe20P7HWmX07UA" comment="" name="MSS_DecimalSeparator" prompt="MSS_DecimalSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="'.'"/>
+  <contextParameter xmi:id="_Yo0kd8czEe20P7HWmX07UA" comment="" name="MSS_LastColumn" prompt="MSS_LastColumn?" promptNeeded="false" repositoryContextId="" type="id_Integer" value=""/>
+</talendfile:ContextType>

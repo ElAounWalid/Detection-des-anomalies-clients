@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_Q81wMMczEe20P7HWmX07UA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_Q81wMcczEe20P7HWmX07UA" comment="" name="Code_Postal_FirstColumn" prompt="Code_Postal_FirstColumn?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_Q81wMsczEe20P7HWmX07UA" comment="" name="Code_Postal_ThousandSeparator" prompt="Code_Postal_ThousandSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="','"/>
+  <contextParameter xmi:id="_Q81wM8czEe20P7HWmX07UA" comment="" name="Code_Postal_File" prompt="Code_Postal_File?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="C:/Users/ewali/OneDrive/Bureau/Stage_PFE/code_postal.xlsx"/>
+  <contextParameter xmi:id="_Q81wNMczEe20P7HWmX07UA" comment="" name="Code_Postal_Encoding" prompt="Code_Postal_Encoding?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="UTF-8"/>
+  <contextParameter xmi:id="_Q81wNcczEe20P7HWmX07UA" comment="" name="Code_Postal_Header" prompt="Code_Postal_Header?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_Q81wNsczEe20P7HWmX07UA" comment="" name="Code_Postal_DecimalSeparator" prompt="Code_Postal_DecimalSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="'.'"/>
+  <contextParameter xmi:id="_Q81wN8czEe20P7HWmX07UA" comment="" name="Code_Postal_LastColumn" prompt="Code_Postal_LastColumn?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value=""/>
+</talendfile:ContextType>

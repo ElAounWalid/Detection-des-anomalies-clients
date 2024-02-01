@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_LUckUMczEe20P7HWmX07UA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_LUckUcczEe20P7HWmX07UA" comment="" name="AGENCE_FirstColumn" prompt="AGENCE_FirstColumn?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_LUckUsczEe20P7HWmX07UA" comment="" name="AGENCE_ThousandSeparator" prompt="AGENCE_ThousandSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="','"/>
+  <contextParameter xmi:id="_LUckU8czEe20P7HWmX07UA" comment="" name="AGENCE_File" prompt="AGENCE_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Users/ewali/OneDrive/Bureau/Stage_PFE/AGENCE.xlsx"/>
+  <contextParameter xmi:id="_LUckVMczEe20P7HWmX07UA" comment="" name="AGENCE_Encoding" prompt="AGENCE_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8"/>
+  <contextParameter xmi:id="_LUckVcczEe20P7HWmX07UA" comment="" name="AGENCE_Header" prompt="AGENCE_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_LUckVsczEe20P7HWmX07UA" comment="" name="AGENCE_DecimalSeparator" prompt="AGENCE_DecimalSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="'.'"/>
+  <contextParameter xmi:id="_LUckV8czEe20P7HWmX07UA" comment="" name="AGENCE_LastColumn" prompt="AGENCE_LastColumn?" promptNeeded="false" repositoryContextId="" type="id_Integer" value=""/>
+</talendfile:ContextType>

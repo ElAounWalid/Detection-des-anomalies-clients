@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_FezmoMczEe20P7HWmX07UA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_FezmocczEe20P7HWmX07UA" comment="" name="AGE_FirstColumn" prompt="AGE_FirstColumn?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_FezmosczEe20P7HWmX07UA" comment="" name="AGE_ThousandSeparator" prompt="AGE_ThousandSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="','"/>
+  <contextParameter xmi:id="_Fezmo8czEe20P7HWmX07UA" comment="" name="AGE_File" prompt="AGE_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Users/ewali/OneDrive/Bureau/Stage_PFE/AGE.xlsx"/>
+  <contextParameter xmi:id="_FezmpMczEe20P7HWmX07UA" comment="" name="AGE_Encoding" prompt="AGE_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8"/>
+  <contextParameter xmi:id="_FezmpcczEe20P7HWmX07UA" comment="" name="AGE_Header" prompt="AGE_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_FezmpsczEe20P7HWmX07UA" comment="" name="AGE_DecimalSeparator" prompt="AGE_DecimalSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="'.'"/>
+  <contextParameter xmi:id="_Fezmp8czEe20P7HWmX07UA" comment="" name="AGE_LastColumn" prompt="AGE_LastColumn?" promptNeeded="false" repositoryContextId="" type="id_Integer" value=""/>
+</talendfile:ContextType>

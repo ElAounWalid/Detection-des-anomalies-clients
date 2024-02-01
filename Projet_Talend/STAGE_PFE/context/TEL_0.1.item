@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_c-tmoMczEe20P7HWmX07UA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_c-tmocczEe20P7HWmX07UA" comment="" name="TEL_FirstColumn" prompt="TEL_FirstColumn?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_c-tmosczEe20P7HWmX07UA" comment="" name="TEL_ThousandSeparator" prompt="TEL_ThousandSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="','"/>
+  <contextParameter xmi:id="_c-tmo8czEe20P7HWmX07UA" comment="" name="TEL_File" prompt="TEL_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Users/ewali/OneDrive/Bureau/Stage_PFE/TEL.xlsx"/>
+  <contextParameter xmi:id="_c-tmpMczEe20P7HWmX07UA" comment="" name="TEL_Encoding" prompt="TEL_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8"/>
+  <contextParameter xmi:id="_c-tmpcczEe20P7HWmX07UA" comment="" name="TEL_Header" prompt="TEL_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_c-tmpsczEe20P7HWmX07UA" comment="" name="TEL_DecimalSeparator" prompt="TEL_DecimalSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="'.'"/>
+  <contextParameter xmi:id="_c-tmp8czEe20P7HWmX07UA" comment="" name="TEL_LastColumn" prompt="TEL_LastColumn?" promptNeeded="false" repositoryContextId="" type="id_Integer" value=""/>
+</talendfile:ContextType>

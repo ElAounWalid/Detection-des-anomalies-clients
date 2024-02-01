@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_8P6XwMQJEe2g14IElLOWZg" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_8P6XwcQJEe2g14IElLOWZg" comment="" name="NOM_PRENOM_Encoding" prompt="NOM_PRENOM_Encoding?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="UTF-8"/>
+  <contextParameter xmi:id="_8P6XwsQJEe2g14IElLOWZg" comment="" name="NOM_PRENOM_File" prompt="NOM_PRENOM_File?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="C:/Users/ewali/OneDrive/Bureau/Stage_PFE/NOM_PRENOM.xlsx"/>
+  <contextParameter xmi:id="_8P6Xw8QJEe2g14IElLOWZg" comment="" name="NOM_PRENOM_DecimalSeparator" prompt="NOM_PRENOM_DecimalSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="'.'"/>
+  <contextParameter xmi:id="_8P6XxMQJEe2g14IElLOWZg" comment="" name="NOM_PRENOM_LastColumn" prompt="NOM_PRENOM_LastColumn?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_8P6XxcQJEe2g14IElLOWZg" comment="" name="NOM_PRENOM_Header" prompt="NOM_PRENOM_Header?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_8P6XxsQJEe2g14IElLOWZg" comment="" name="NOM_PRENOM_FirstColumn" prompt="NOM_PRENOM_FirstColumn?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_8P6Xx8QJEe2g14IElLOWZg" comment="" name="NOM_PRENOM_ThousandSeparator" prompt="NOM_PRENOM_ThousandSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="','"/>
+</talendfile:ContextType>

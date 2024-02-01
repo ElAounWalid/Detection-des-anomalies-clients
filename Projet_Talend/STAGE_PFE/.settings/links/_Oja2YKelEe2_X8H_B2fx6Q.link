@@ -1,0 +1,54 @@
+{
+  "itemId" : "_Oja2YKelEe2_X8H_B2fx6Q",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_c-kcsMczEe20P7HWmX07UA",
+    "parameterList" : [ {
+      "id" : "_c-tmocczEe20P7HWmX07UA",
+      "name" : "TEL_FirstColumn"
+    }, {
+      "id" : "_c-tmosczEe20P7HWmX07UA",
+      "name" : "TEL_ThousandSeparator"
+    }, {
+      "id" : "_c-tmo8czEe20P7HWmX07UA",
+      "name" : "TEL_File"
+    }, {
+      "id" : "_c-tmpMczEe20P7HWmX07UA",
+      "name" : "TEL_Encoding"
+    }, {
+      "id" : "_c-tmpcczEe20P7HWmX07UA",
+      "name" : "TEL_Header"
+    }, {
+      "id" : "_c-tmpsczEe20P7HWmX07UA",
+      "name" : "TEL_DecimalSeparator"
+    }, {
+      "id" : "_c-tmp8czEe20P7HWmX07UA",
+      "name" : "TEL_LastColumn"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_bWVssNM-Ee2PWOS-WjhPug",
+    "parameterList" : [ {
+      "id" : "_bWjIEdM-Ee2PWOS-WjhPug",
+      "name" : "BD_conn1_ServiceName"
+    }, {
+      "id" : "_bWjIF9M-Ee2PWOS-WjhPug",
+      "name" : "BD_conn1_Schema"
+    }, {
+      "id" : "_bWjIFNM-Ee2PWOS-WjhPug",
+      "name" : "BD_conn1_Server"
+    }, {
+      "id" : "_bWjIEtM-Ee2PWOS-WjhPug",
+      "name" : "BD_conn1_AdditionalParams"
+    }, {
+      "id" : "_bWjIE9M-Ee2PWOS-WjhPug",
+      "name" : "BD_conn1_Login"
+    }, {
+      "id" : "_bWjIFtM-Ee2PWOS-WjhPug",
+      "name" : "BD_conn1_Port"
+    }, {
+      "id" : "_bWjIFdM-Ee2PWOS-WjhPug",
+      "name" : "BD_conn1_Password"
+    } ]
+  } ]
+}
