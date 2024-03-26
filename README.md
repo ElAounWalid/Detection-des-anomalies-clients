@@ -1,2 +1,2 @@
-# Detection-des-anomalies-clients
-C'est mon projet de fin d'études (licence) , ce projet a pour but de mettre en place un Dashboard qui qui aide les décideurs a prendre des décisions pour l’amélioration de la qualité des données et également la détection des anomalies dans les données clientèle de la banque
+# Client Anomaly Detection
+This is my end-of-studies project (bachelor's degree). The aim of this project is to implement a dashboard that assists decision-makers in making decisions to improve data quality and also detect anomalies in the bank's customer data.
